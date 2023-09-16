@@ -21,7 +21,7 @@ public class ConsCalling {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ConsCalling c = new ConsCalling();
-
+		ConsCalling d = new ConsCalling(30,20);
 	}
 
 }
