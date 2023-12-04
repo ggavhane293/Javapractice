@@ -7,11 +7,11 @@ public class Reversewithiterativemethod {
 		
 		String str = "myjava";
 				
-		char [] strarray = str.toCharArray();
+		char [] ar = str.toCharArray();
 		
-		for(int i=strarray.length-1;i>=0;i--)
+		for(int i=ar.length-1;i>=0;i--)
 		{
-			System.out.print(strarray[i]);
+			System.out.print(ar[i]);
 		}
 
 	}

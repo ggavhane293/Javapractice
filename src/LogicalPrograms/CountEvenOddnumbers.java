@@ -11,7 +11,7 @@ public class CountEvenOddnumbers {
 		
 		while(num>0)
 		{
-			int reminder=num%10;// it will give us the last digit reminder number
+			//int reminder=num%10;// it will give us the last digit reminder number
 			if(num%2==0) //checking the condition of reminder number
 			{
 				even++;//if number is even increase the count
