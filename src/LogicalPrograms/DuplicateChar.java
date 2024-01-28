@@ -5,7 +5,7 @@ public class DuplicateChar {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String str ="abbcddd";
+		String str ="sofegeek";
 		int count=0;
 		char a[]=str.toCharArray();
 		
