@@ -32,8 +32,7 @@ public class Coferge4 {
 	            sb.append(" ");
 	        }
 	        System.out.println("With String: "+sb);
-	}
-
+	        }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// print the "V K is a good player"
@@ -41,7 +40,6 @@ public class Coferge4 {
 		String str="Sachin Tenduark is a good player";
 		splitword(str);
 		
-	
 	}
 
 }
