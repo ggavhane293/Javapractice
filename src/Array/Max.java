@@ -16,6 +16,7 @@ public class Max {
 			
 			}
 			System.out.println(max);
+			System.out.println("Above is the max num");
 		}
 
 	}
