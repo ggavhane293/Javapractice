@@ -13,7 +13,7 @@ public class Collection {
 		list.add(4);
 		list.add(9);
 		
-		//Collections.sort(list);//Accending order
+		Collections.sort(list);//Accending order
 		//Collections.sort(list,Collections.reverseOrder());//decending order
 		//Collections.reverse(list);// reverse the list
 		
