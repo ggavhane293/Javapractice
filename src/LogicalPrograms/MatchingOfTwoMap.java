@@ -17,10 +17,10 @@ public class MatchingOfTwoMap {
     
 		HashMap<Integer,Integer> map2= new  HashMap();
 		
-		map1.put(2, 4);
-		map1.put(24, 45);
-		map1.put(22, 45);
-		map1.put(25, 45);
+		map2.put(2, 4);
+		map2.put(24, 45);
+		map2.put(22, 45);
+		map2.put(25, 45);
 		
 		for(Map.Entry m:map1.entrySet())
 		{

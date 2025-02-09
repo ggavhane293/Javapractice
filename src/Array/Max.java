@@ -12,8 +12,7 @@ public class Max {
 			for(int i=1;i<num.length;i++)
 			if(num[i]>max)
 			{
-			 max=num[i];
-			
+			 max=num[i];		
 			}
 			System.out.println(max);
 			System.out.println("Above is the max num");

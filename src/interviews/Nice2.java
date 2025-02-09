@@ -12,7 +12,7 @@ public class Nice2 {
 		//while(num>0)
 		for(int i=0;i<num;i++)
 		{
-			power=num*3;
+			power=num*i;
 		}
 		System.out.println(power);
 	}

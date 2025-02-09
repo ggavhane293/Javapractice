@@ -15,7 +15,7 @@ public class Addingvalue {
 		hm.put(200, "two hundred");
 		hm.put(300, "three hundred");
 		
-		//System.out.println(hm);//for printing in one line
+		System.out.println(hm);//for printing in one line
 		
 		for(Map.Entry m :hm.entrySet())//for each loop for printing in separate line
 		{

@@ -12,15 +12,14 @@ public class Coforge {
         for(int i=len-1;i>=0;i--)
         {
             rev=rev+st[i];
-            System.out.println(rev);
+            
             
             if(i!=0)
             {
            	 rev+=".";
-            }
-            
+            }         
         }
-        
+        System.out.println(rev);
     }
 	}
 

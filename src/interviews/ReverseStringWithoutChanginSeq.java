@@ -11,7 +11,7 @@ public class ReverseStringWithoutChanginSeq {
          String rev ="";
          for(int i=len-1;i>=0;i--)
          {
-             rev=rev+st[i];
+            rev=rev+st[i];
              if(i!=0)
              {
             	 rev+=".";

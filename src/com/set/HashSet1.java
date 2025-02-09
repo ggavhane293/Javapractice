@@ -11,8 +11,14 @@ public class HashSet1 {
 		HashSet<String> set = new HashSet<String>();
 		set.add("abc");
 		set.add("xyz");
-		set.add("ltr");
+		set.add("g");
+		//with foreach
+		for(String s:set)
+		{
+			System.out.println(s);
+		}
 		
+		//with iterator
 		Iterator itr = set.iterator();
 		while(itr.hasNext())
 		{

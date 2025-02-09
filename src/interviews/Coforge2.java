@@ -12,7 +12,7 @@ public class Coforge2 {
 		
 		char c = 'o';
 		System.out.println(Collections.frequency(Arrays.asList(str.split("")), String.valueOf(c)));
-
+		System.out.println(Collections.frequency(Arrays.asList(str.split("")), String.valueOf(c)));
 	}
 
 }

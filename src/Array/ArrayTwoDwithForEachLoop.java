@@ -14,7 +14,7 @@ public class ArrayTwoDwithForEachLoop {
 		a[1][1]=444;
 		a[1][2]=4445;
 		
-		for(int i[]:a)//printing the first row and incresing
+		for(int i[]:a)//printing the first row and increasing
 		{
 			for(int j:i)//printing the value of i
 			{
